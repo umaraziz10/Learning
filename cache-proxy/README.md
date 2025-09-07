@@ -3,6 +3,9 @@
 Implementation of proxy server in both Node.js and Python, with a shared caching mechanism. The cache is stored as files named using the MD5 hash of the requested URL, allowing both proxy servers to access and reuse the same cached responses. This setup is designed as a learning project to understand the fundamentals of proxy servers, caching, and simple backend concepts.
 
 Inspired by: https://roadmap.sh/projects/caching-server
+
+![Illustration image](image.png)
+
 ## Run Locally
 
 Move to ```/py``` folder and run the code
