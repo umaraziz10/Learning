@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "description": "default task (delete this using './task-list.js delete 1' command)",
+    "status": "to-do",
+    "createdAt": 1757126289402,
+    "updatedAt": 1757129761545
+  }
+]
