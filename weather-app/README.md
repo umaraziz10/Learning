@@ -13,14 +13,14 @@ You can contact me if you’d like to use mine, or you can sign up for a free ac
 
 ## Run Locally
 
-Move to ```/py``` folder and run the code
+Move to root folder and run this command:
 ```bash
   docker-compose up --build
 ```
 By default
-- express-backend run on port 10001
-- vite-frontend run on port 5173
-- redis run on port 6379
+- ```express-backend``` run on port 10001
+- ```vite-frontend run``` on port 5173
+- ```redis``` run on port 6379
 
 ## Preview
 
